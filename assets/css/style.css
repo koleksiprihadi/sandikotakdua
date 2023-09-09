@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "sandikotakdua";
+    src: url("https://tekpram.sandarscout.com/sandikotakdua/assets/font/sandi-kotak-dua.ttf") format("truetype");
+    /*src: url(https://fonts.gstatic.com/s/benne/v10/L0xzDFAhn18E6Wj2nN8.woff2) format('woff2')*/
+}
+h3{
+    letter-spacing: 5px;
+}
+
+.kotakdua{
+    font-family: 'sandikotakdua';
+}
+h4{
+    letter-spacing: 1rem;
+    color: green;
+}
